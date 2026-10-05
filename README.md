@@ -27,7 +27,6 @@ Suppose you have a PDF report on the latest advancements in artificial intellige
 
 The app will process your queries and provide you with accurate answers directly from the PDF content.
 
-![App Interface](image.png)
 
 ## Requirements
 
@@ -51,7 +50,7 @@ The app will process your queries and provide you with accurate answers directly
     pip install -r requirements.txt
     ```
 
-3. **Set up your OpenAI API key**: Obtain an API key from OpenAI. [Sign up here](https://platform.openai.com/signup) if you don't have one.
+3. **Set up your Gemini API key**: Obtain an API key from Gemini. [Sign up here](https://ai.google.dev/gemini-api/docs/api-key) if you don't have one.
 
 ## Usage
 
@@ -92,4 +91,4 @@ Contributions are welcome! If you have suggestions, improvements, or want to rep
 
 ## Contact
 
-For questions or feedback, reach out to [amishkumar1028@gmail.com](mailto:amishkumar1028@gmail.com).
+For questions or feedback, reach out to [rathoreharsh689@gmail.com](mailto:rathoreharsh689@gmail.com).
